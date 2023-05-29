@@ -1,16 +1,37 @@
-# 동국대학교 블록체인 학회 2Plus1 교육 자료
+# DGU Blockchain Academy "2Plus1"
 
-[교안 노션](https://www.notion.so/bl0ckchain/eafcb6a247d94214944053f355e30c11?pvs=4)
-
-## 목표
-
-- 9월 해커톤 참여를 위한 Solidity와 React 기초 학습
+[Notion Page](https://www.notion.so/bl0ckchain/eafcb6a247d94214944053f355e30c11?pvs=4)
 
 
 
-## 과제
+## Goal
+
+- Participate Blockchain Hackathon in Sep, 2023
+- Learn Solidity & React Basic
+
+
+
+## How to submit assignment
+
+#### Option 1 : Submit here with your own branch (recommended)
+
+git checkout -b "yourname"
+
+git add .
+
+git commit -m '230530_assignment1'
+
+git push origin "yourname"
+
+
+
+#### Option  2 : Push to your repository and submit whether you did or not
+
+
+
+## Assignments
 
 [2023_05_31]
 
 - React
-  - Chakra UI의 <Input> 태그와 <Button>를 활용하여 메세지 전송 칸을 구현해보세요.
+  - Build "Message Sender" using Chakra UI ( <Input> ,<Button> )
