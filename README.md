@@ -1,4 +1,4 @@
-# DGU Blockchain Academy "2Plus1"
+# DGU Blockchain Academy "2PlusOne"
 
 [Notion Page](https://www.notion.so/bl0ckchain/eafcb6a247d94214944053f355e30c11?pvs=4)
 
